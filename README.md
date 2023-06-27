@@ -1,4 +1,5 @@
 # cEr39Ps6
+[2.pdf](https://github.com/yinfangrtz/JS-Color-Mode-Selector/files/11876354/2.pdf)
 
 Quick start:
 
