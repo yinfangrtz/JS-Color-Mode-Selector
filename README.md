@@ -3,7 +3,8 @@
 This app is a customizable interface that allows users to select their preferences for various settings, such as movie genre, fruit, mode, and edge style. By choosing their preferred options, users can personalize the app's appearance and behavior according to their preferences.
 
 ![index_000001](https://github.com/yinfangrtz/JS-Color-Mode-Selector/assets/106718273/c1345753-c885-4025-a3d3-714f6b63c12b)
-![2_000001](https://github.com/yinfangrtz/JS-Color-Mode-Selector/assets/106718273/b2c99f53-7689-4dd4-9add-31539c22490d)
+
+![3_000001](https://github.com/yinfangrtz/JS-Color-Mode-Selector/assets/106718273/7911f861-c7a4-4b97-bb04-005c5fc52be4)
 
 
 Quick start:
