@@ -1,5 +1,10 @@
-# cEr39Ps6
-[2.pdf](https://github.com/yinfangrtz/JS-Color-Mode-Selector/files/11876354/2.pdf)
+# JS-Color-Mode-Selector
+
+This app is a customizable interface that allows users to select their preferences for various settings, such as movie genre, fruit, mode, and edge style. By choosing their preferred options, users can personalize the app's appearance and behavior according to their preferences.
+
+![index_000001](https://github.com/yinfangrtz/JS-Color-Mode-Selector/assets/106718273/c1345753-c885-4025-a3d3-714f6b63c12b)
+![2_000001](https://github.com/yinfangrtz/JS-Color-Mode-Selector/assets/106718273/b2c99f53-7689-4dd4-9add-31539c22490d)
+
 
 Quick start:
 
